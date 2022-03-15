@@ -1,3 +1,5 @@
 hoc git
 
 hoc git buoi da tien
+
+hoc git buoi thu 2
